@@ -1,0 +1,31 @@
+*{
+
+	font-family: 'Times New Roman', Times, serif;
+}
+
+#banner{
+	height: 90vh;
+}
+#banner .ngee{
+	background: url('img/pexels-hardeep-17825594.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		height: 90vh;
+        border-radius: 5px;
+}
+#banner .ngee .container{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#banner .mweow{
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+}
+#about{
+    height: 100vh;
+    width: max-content;
+}
